@@ -1,18 +1,16 @@
-[![Run on Repl.it](https://repl.it/badge/github/techwithtim/NEAT-Flappy-Bird)](https://repl.it/github/techwithtim/NEAT-Flappy-Bird)
-# NEAT-Flappy-Bird
-An AI that plays flappy bird! Using the NEAT python module.
+# Flappy Bird Bot
+An AI that plays, and learns how to play, Flappy Bird using the NEAT python module.
 
-# Instructions
-Simply run *flappy_bird.py* and watch an AI start training itself to play the game of flappy bird!
+![image](https://github.com/donaldheddesheimer/FlappyBirdBot/assets/119540065/ff25510d-d064-45b4-900e-26c716d5d682)
 
-# Video Tutorial
+## Features
+- NEAT Integration: Utilizes the NEAT Python module for evolving neural networks, allowing the bot to adapt and improve its gameplay.
+- Autonomous Learning: The bot learns to navigate through the Flappy Bird environment without explicit programming, relying on evolutionary principles.
+- Game Visualization: The included image provides a snapshot of the game interface, illustrating the bot's interaction with Flappy Bird.
 
-You can view on the details of this project here: https://www.youtube.com/watch?v=OGHA-elMrxI
+![flap](https://github.com/donaldheddesheimer/FlappyBirdBot/assets/119540065/c512ded6-52af-4970-adec-cbeb102e3ecc)
 
-# Run in Gitpod
+## Credits
+All the images are taken from the original Flappy Bird Game. Credit to [Code Bullet](https://www.youtube.com/watch?v=WSW-5m8lRMs) for inspiring me to create this!
 
-You can also run NEAT-Flappy-Bird in Gitpod, a free online dev environment for GitHub:
-
-If you're intersted in a paid subscription with GitPod use the coupon code: TECHWITHTIM19
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/NEAT-Flappy-Bird/blob/master/flappy_bird.py)
+![4061472_c04f_3](https://github.com/donaldheddesheimer/FlappyBirdBot/assets/119540065/c0d9db37-ffee-4b69-8dc7-cb7c4e8b6ef4)
