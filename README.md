@@ -1,2 +1,2 @@
-# FlappyBirdBot
+# Flappy Bird Bot
 An AI that plays flappy bird. Using the NEAT python module.
